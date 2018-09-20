@@ -1,0 +1,6 @@
+Elem1,Elem2,Adjcntratio,Percenterr,Comments
+V,Ti,0.133,0.08,errors as percentages
+Cr,V,0.134,0.05,
+S,PtM,0.046,0.05,
+Si,C,0.017,0.05,intrinsic Si peak adjustment
+Mg,Al,0.00967,0.05,Overlap from Al-foil craters

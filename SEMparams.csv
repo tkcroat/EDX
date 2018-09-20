@@ -1,0 +1,5 @@
+Project,Basename,Filenumber,Filename,FilePath,Sample,Point,Comments,Date,Time,Beamkv,Livetime,Realtime,Detected,Converted,Stored,Timeconst,Deadfraction
+,,,,,,,,,,,,,,,,,
+,,,#TITLE       :,,,,,#DATE        : ,#TIME        : ,#BEAMKV   -kV:,#LIVETIME  -s:,#REALTIME  -s:,##DETECTS    :,##CONVERTS   :,##STORES     :,##TIMECNSTNT :,
+,,,str,,,,,str,str,float,float,float,int,int,int,int,
+from SEM Excel log,from SEM Excel log,from filename,from SEM Excel log,from SEM Excel log,from SEM Excel log,from filename,from SEM Excel log,from header,from header,from header,from header,from header,from header,from header,from header,from header,
