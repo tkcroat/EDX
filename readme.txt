@@ -1,6 +1,6 @@
 SEM-EDX quant read-me 
 
-These python 3 scripts allow for:
+These python scripts allow for:
 1)	Batch import and conversion of psmsa or emsa files (NORAN/NSS) to csv 
 2)	Extraction of key header parameters which are stored in a comprehensive file index 
 3)	Tweakable automated background fitting of the x-ray background
